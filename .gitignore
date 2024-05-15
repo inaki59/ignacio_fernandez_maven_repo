@@ -1,0 +1,23 @@
+# Directorios de trabajo
+target/
+work/
+
+# Archivos de configuración
+.settings
+.m2/repository
+
+# Archivos de IDE
+.idea/
+.project
+
+# Archivos binarios
+*.class
+*.jar
+
+# Archivos de prueba
+target/test-reports/
+
+# Otros archivos que no quieres rastrear
+*.iml
+*.log
+*.swp
