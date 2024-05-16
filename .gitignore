@@ -9,7 +9,6 @@ work/
 # Archivos de IDE
 .idea/
 .project
-
 # Archivos binarios
 *.class
 *.jar
@@ -18,6 +17,7 @@ work/
 target/test-reports/
 
 # Otros archivos que no quieres rastrear
+*.iws
 *.iml
 *.log
 *.swp
